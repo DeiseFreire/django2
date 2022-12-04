@@ -186,7 +186,3 @@ python manage.py shell
 
 https://django2.deisefreire2022.repl.co/
 
-
-### Pequeno vídeo ilustrativo explicando o funcionamento
-
-https://youtu.be/wKV90L4W3bM
