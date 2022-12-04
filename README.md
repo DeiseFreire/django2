@@ -77,6 +77,7 @@ python manage.py help makemigrations
 python manage.py help migrate
 python manage.py help runserver
 python manage.py help createsuperuser
+python manage.py collectstatic
 
 ### Super usuário
 python manage.py createsuperuser
@@ -181,4 +182,11 @@ python manage.py shell
 >>> from django_project.settings import BASE_DIR
 >>> BASE_DIR
 
-python manage.py collectstatic
+### Visite o projeto no Replit
+
+https://django2.deisefreire2022.repl.co/
+
+
+### Pequeno vídeo ilustrativo explicando o funcionamento
+
+https://youtu.be/wKV90L4W3bM
