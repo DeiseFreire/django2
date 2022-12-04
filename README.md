@@ -186,3 +186,10 @@ python manage.py shell
 
 https://django2.deisefreire2022.repl.co/
 
+### Pequeno vídeo de  apresentação do projeto
+
+https://youtu.be/wKV90L4W3bM
+
+### Documentação 
+
+(Google Docs)[https://docs.google.com/document/d/1R-_vgm5kHyqYs2Azk1sqS4xvD8j_Kg3Pp41Zutmfu78/edit?usp=sharing]
